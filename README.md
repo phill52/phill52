@@ -19,6 +19,5 @@
   - Python
   - Java
   - C/C++
-  - Github
   
 - 📬 You can reach me at **paner225@gmail.com**
