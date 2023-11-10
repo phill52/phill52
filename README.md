@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on:
   - [Workwind](https://github.com/phill52/WorkWindAPI)
-  - [My Portfolio](https://github.com/phill52/personalportfolio)
+  - [Stevens Blueprint Website](https://github.com/stevensblueprint/blueprint_website)
   
 - 🏆 I'm proficient in:
   - Javascript
